@@ -1,0 +1,10 @@
+# python
+Python-FastAPI/.idea/
+Python-FastAPI/__pycache__/
+Python-FastAPI/.venv/
+Python-FastAPI/app.log
+
+
+# VUE
+Vue3-Order/node_modules/
+Vue3-Order/.vscode/
