@@ -37,15 +37,11 @@ npm install
 
 **登录界面**
 
-
-
-![](C:\Users\86134\Pictures\Screenshots\屏幕截图 2025-11-15 150100.png)
+<img width="2559" height="1309" alt="屏幕截图 2025-11-15 150100" src="https://github.com/user-attachments/assets/b9a69d25-08e5-4697-9168-b653b6b85c86" />
 
 
 
 **用户管理界面 ****
 
-![](C:\Users\86134\Pictures\Screenshots\屏幕截图 2025-11-15 150148.png)
 
-
-
+<img width="2559" height="1304" alt="屏幕截图 2025-11-15 150148" src="https://github.com/user-attachments/assets/461e4a2f-fb16-4b79-a6aa-a4ca9a344389" />
